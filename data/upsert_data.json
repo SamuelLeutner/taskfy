@@ -1,0 +1,15 @@
+[
+  {
+    "id_task": 1,
+    "description": "Revisar relatório do TP3 - ATUALIZADO VIA BATCH",
+    "status": "Concluída",
+    "user_id_fk": 1,
+    "category_id_fk": 1
+  },
+  {
+    "description": "Nova Tarefa de Carga Massiva",
+    "status": "Pendente",
+    "user_id_fk": 2,
+    "category_id_fk": 2
+  }
+]
