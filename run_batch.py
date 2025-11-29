@@ -77,7 +77,7 @@ def run_upsert():
 
     except Exception as e:
         db.rollback()
-        print(f"❌ Erro durante o Upsert: {e}")
+        print(f"Erro durante o Upsert: {e}")
     finally:
         db.close()
 
